@@ -1,5 +1,5 @@
 # Laborjournal
----
+
 ### 2019-03-20
 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page):
 - research
