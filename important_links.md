@@ -5,3 +5,4 @@
 - [bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html)
 - [networkX](https://networkx.github.io/)
 - [seaborn](https://seaborn.pydata.org/)
+- [librarycarpentry](https://librarycarpentry.org/)
