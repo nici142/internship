@@ -1,5 +1,5 @@
 ### important links
-- [scholia)(https://tools.wmflabs.org/scholia/)
+- [scholia](https://tools.wmflabs.org/scholia/)
 - [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [matplotlib](https://matplotlib.org/)
 - [bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html)
