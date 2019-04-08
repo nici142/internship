@@ -79,7 +79,6 @@ how to programm graphics with [networkx](https://networkx.github.io/)
 task: show excel table in python with pandas 
 
 ### 2019-04-08
-
-
+task: visualize table in python with module networkx and matplotlib
 
 
