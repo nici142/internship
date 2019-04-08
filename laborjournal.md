@@ -70,5 +70,13 @@ hackyhour:
 
 how to programm graphics with [networkx](https://networkx.github.io/)
 
+### 2019-04-05
+[networkx](https://networkx.github.io/)
+
+task: show excel table in python with pandas 
+
+### 2019-04-08
+
+
 
 
