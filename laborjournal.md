@@ -29,7 +29,7 @@
 - data types
 - built-in functions and help
 
-Research:
+research:
 - Digital Object Identifier (doi)
 - Application programming interface (api)
 
@@ -67,6 +67,9 @@ created in github a repository called internship
 
 hackyhour:
 - presentation about selenium
+
+research:
+- [orcid](https://orcid.org/)
 
 how to programm graphics with [networkx](https://networkx.github.io/)
 
