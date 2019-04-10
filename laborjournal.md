@@ -81,4 +81,14 @@ task: show excel table in python with pandas
 ### 2019-04-08
 task: visualize table in python with module networkx and matplotlib
 
+### 2019-04-09
+task: print doi from reference and show network of dois with module networkx and matplotlib
+
+### 2019-04-10
+research:
+- openstack
+
+virtualbox:
+- ubuntu
+
 
