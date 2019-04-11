@@ -91,4 +91,7 @@ research:
 virtualbox:
 - ubuntu
 
+### 2019-04-11
+openstack workshop
+
 
