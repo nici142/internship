@@ -98,7 +98,9 @@ openstack workshop
 
 ### 2019-04-12
 how to work with ubuntu 
+
 using git and anaconda in ubuntu
+
 install ansible
 
 research:
