@@ -1,2 +1,2 @@
 ### internship
-includes my labourjournal and tasks that i worked on.
+includes my labourjournal, tasks that i worked on and important sources for research
