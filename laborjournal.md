@@ -104,8 +104,11 @@ using git and anaconda in ubuntu
 install ansible
 
 research:
-- ainsible
+- ansible
 
 ### 2019-04-15
+understanding ansible
+
+working on the report about my internship
 
 
