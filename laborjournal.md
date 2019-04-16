@@ -111,4 +111,9 @@ understanding ansible
 
 working on the report about my internship
 
+task: other way to visualize dois with networkx, changing DOI_JSON_networkx.py file
+
+### 2019-04-16
+task: download data from wikidta and visualize it with networkx
+
 
