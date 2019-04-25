@@ -116,4 +116,18 @@ task: other way to visualize dois with networkx, changing DOI_JSON_networkx.py f
 ### 2019-04-16
 task: download data from wikidata and visualize it with networkx
 
+### 2019-04-17
+
+### 2019-04-18
+
+### 2019-04-19
+
+### 2019-04-22
+
+### 2019-04-23
+
+### 2019-04-24
+
+### 2019-04-25
+
 
