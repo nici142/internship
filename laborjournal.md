@@ -31,7 +31,7 @@
 
 research:
 - Digital Object Identifier (doi)
-- Application programming interface (api)
+- Application programming interface (Programmschnittstelle) abk. api
 
 ### 2019-03-26
 [Intro to Python](https://librarycarpentry.org/lc-python-intro/):
@@ -43,7 +43,9 @@ research:
 [Intro to Python](https://librarycarpentry.org/lc-python-intro/):
 - loops
 - writing functions
-- local and global variables
+- local and global variables:
+local: kann man außerhalb der Variable benutzen
+global: kann man im gesamten Programm drauf zugreifen
 - if-statements
 
 ### 2019-03-28
@@ -52,9 +54,12 @@ research:
 
 ### 2019-03-29
 task: writing a program which downloads json-files
+- json module
+- urllib.request module
 
 ### 2019-04-01
 task: writing a program which can download several json-files
+- for loop
 
 ### 2019-04-02
 library carpentry workshop
@@ -69,9 +74,11 @@ hackyhour:
 - presentation about selenium
 
 research:
-- [orcid](https://orcid.org/)
+- [orcid](https://orcid.org/) (Identifizierungsnummer für Autoren und Autorinnen)
 
-how to programm graphics with [networkx](https://networkx.github.io/)
+how to programm graphics with [networkx](https://networkx.github.io/):
+- nodes (knoten)
+- edges (kante)
 
 ### 2019-04-05
 [networkx](https://networkx.github.io/)
@@ -83,13 +90,18 @@ task: visualize table in python with module networkx and matplotlib
 
 ### 2019-04-09
 task: print doi from reference and show network of dois with module networkx and matplotlib
+- modules: json, urllib.request, networkx and matplotlib
+- print dois from reference
+- add nodes
+- add edges with for loop
+- draw graph
 
 ### 2019-04-10
 research:
-- openstack
+- openstack (Cloud-Computing)
 
 virtualbox:
-- ubuntu
+- ubuntu (linux)
 
 downloaded in ubuntu anaconda, git and ansible
 
@@ -104,17 +116,16 @@ using git and anaconda in ubuntu
 install ansible
 
 research:
-- ansible
+- ansible (Verwaltung und Administartion von verteilten Servern)
 
 ### 2019-04-15
-understanding ansible
 
 working on the report about my internship
 
 task: other way to visualize dois with networkx, changing DOI_JSON_networkx.py file
+- changed by using for loops
 
 ### 2019-04-16
-task: download data from wikidata and visualize it with networkx
 
 ### 2019-04-17
 
