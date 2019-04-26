@@ -35,31 +35,42 @@ research:
 
 ### 2019-03-26
 [Intro to Python](https://librarycarpentry.org/lc-python-intro/):
-- modules
-- lists
-- loops
+
+modules:
+- a file containing Python definitions and statements
+
+lists:
+- []
+
+loops:
+- for x in y:
+  - code
 
 ### 2019-03-27
 [Intro to Python](https://librarycarpentry.org/lc-python-intro/):
-- loops
-- writing functions
-- local and global variables:
-local: kann man außerhalb der Variable benutzen
-global: kann man im gesamten Programm drauf zugreifen
-- if-statements
+
+loops
+
+writing functions:
+- def name_of_function():
+  - code
+
+local and global variables:
+- local: kann man außerhalb der Variable benutzen
+- global: kann man im gesamten Programm drauf zugreifen
+
+if-statements
 
 ### 2019-03-28
 [Intro to Python](https://librarycarpentry.org/lc-python-intro/):
-- revision
 
 ### 2019-03-29
 task: writing a program which downloads json-files
-- json module
-- urllib.request module
+- using json module and urllib.request module
 
 ### 2019-04-01
 task: writing a program which can download several json-files
-- for loop
+- using for loop
 
 ### 2019-04-02
 library carpentry workshop
@@ -72,6 +83,7 @@ created in github a repository called internship
 
 hackyhour:
 - presentation about selenium
+- selenium: Framework für automatisierte Softwaretests von Webanwendungen
 
 research:
 - [orcid](https://orcid.org/) (Identifizierungsnummer für Autoren und Autorinnen)
@@ -83,7 +95,10 @@ how to programm graphics with [networkx](https://networkx.github.io/):
 ### 2019-04-05
 [networkx](https://networkx.github.io/)
 
-task: show excel table in python with pandas 
+task: show excel table in python with pandas
+
+pandas:
+- Programmbibliothek, Hilfsmittel für die Verwaltung von Daten und deren Analyse
 
 ### 2019-04-08
 task: visualize table in python with module networkx and matplotlib
