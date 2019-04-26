@@ -147,8 +147,10 @@ task: other way to visualize dois with networkx, changing DOI_JSON_networkx.py f
 ### 2019-04-18
 
 ### 2019-04-19
+Karfreitag
 
 ### 2019-04-22
+Ostermontag
 
 ### 2019-04-23
 
