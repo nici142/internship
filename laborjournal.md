@@ -39,8 +39,7 @@ research:
 modules:
 - a file containing Python definitions and statements
 
-lists:
-- []
+lists
 
 loops:
 - for x in y:
@@ -62,7 +61,7 @@ local and global variables:
 if-statements
 
 ### 2019-03-28
-[Intro to Python](https://librarycarpentry.org/lc-python-intro/):
+[Intro to Python](https://librarycarpentry.org/lc-python-intro/)
 
 ### 2019-03-29
 task: writing a program which downloads json-files
@@ -138,7 +137,6 @@ research:
 working on the report about my internship
 
 task: other way to visualize dois with networkx, changing DOI_JSON_networkx.py file
-- changed by using for loops
 
 ### 2019-04-16
 
@@ -155,7 +153,9 @@ Ostermontag
 ### 2019-04-23
 
 ### 2019-04-24
+presentation about networkx
 
 ### 2019-04-25
+working with pycharm (text editor)
 
 
