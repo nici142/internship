@@ -3,7 +3,7 @@
 ### 2019-03-20
 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page):
 - research
-- SPARQL
+- SPARQL (Abfragesprache)
 
 [The Unix Shell](https://librarycarpentry.org/lc-shell/):
 - navigating the filesystem
@@ -157,5 +157,16 @@ presentation about networkx
 
 ### 2019-04-25
 working with pycharm (text editor)
+
+### 2019-04-29
+
+### 2019-04-30
+
+### 2019-05-01
+Maifeiertag
+
+### 2019-05-02
+
+### 2019-05-03
 
 
