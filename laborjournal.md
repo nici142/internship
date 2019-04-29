@@ -159,6 +159,7 @@ presentation about networkx
 working with pycharm (text editor)
 
 ### 2019-04-29
+objektorientierte Programmierung: Daten und Programmcode werden in Modulen - Objekten - gekapselt.
 
 ### 2019-04-30
 
