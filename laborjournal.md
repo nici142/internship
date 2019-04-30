@@ -156,12 +156,14 @@ Ostermontag
 presentation about networkx
 
 ### 2019-04-25
-working with pycharm (text editor)
+task: visualizing dois with networkx
 
 ### 2019-04-29
-objektorientierte Programmierung: Daten und Programmcode werden in Modulen - Objekten - gekapselt.
+task: visualizing dois with networkx
 
 ### 2019-04-30
+journal club
+code review
 
 ### 2019-05-01
 Maifeiertag
