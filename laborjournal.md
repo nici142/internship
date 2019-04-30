@@ -163,6 +163,7 @@ task: visualizing dois with networkx
 
 ### 2019-04-30
 journal club
+
 code review
 
 ### 2019-05-01
