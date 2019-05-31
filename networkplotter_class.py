@@ -34,24 +34,3 @@ class NetworkPlotter():
             net.add_edge(srna, target, title=src)
 
         return net.show('networkplotter.html')
-
-
-query = """
-    SELECT DISTINCT ?srna ?srnaLabel ?target ?targetLabel
-WHERE
-{
- ?srna wdt:P31 wd:Q11053.
- ?srna wdt:P31 wd:Q427087.
- ?srna wdt:P128 ?target.
-
- SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-}"""
-
-# get data of sparql and plot it
-sparql_network = NetworkPlotter(query)
-sparql_network.get_data()
-sparql_network.plot_graph()
-
-
-
-
