@@ -2,11 +2,11 @@
 ## allgemein
 Onlinedienst, der Software-Entwicklungsprojekte auf seinen 
 Servern bereitstellt.
-Repositories: Verzeichnisse
-branch: erstellen
-merge: zusammenführen
-fork: respositories abspalten
-pull request: anfragen, änderungen zu übernehmen
+- repositories: verzeichnisse
+- branch: erstellen
+- merge: zusammenführen
+- fork: respositories abspalten
+- pull request: anfragen, änderungen zu übernehmen
 ## Git
 ### in terminal git repository erstellen
 1. einen leeres git verzeichniss erstellen: git init
